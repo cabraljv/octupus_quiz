@@ -11,7 +11,7 @@
 
 ### Aplicação compilada
 
-Para rodar a versão já compilada do aplicativo, basta fazer o <a>download</a> do apk e instala-lo no seu dispositivo.
+Para rodar a versão já compilada do aplicativo, basta fazer o <a href="https://github.com/cabraljv/octupus_quiz/releases/download/v1.0/octupus_quiz_v1.apk">download</a> do apk e instala-lo no seu dispositivo.
 
 ### Ambiente de desenvolvimento
 
